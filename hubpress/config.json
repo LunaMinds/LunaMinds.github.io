@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "LunaMinds",
-    "repositoryName": "LunaMinds.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"LunaMinds","repositoryName":"LunaMinds.github.io","branch":"master","delay":"1000"},"site":{"title":"LunaMinds","url":"https://LunaMinds.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"//LunaMinds.github.io/themes/Casper"}}
