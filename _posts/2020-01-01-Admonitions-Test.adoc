@@ -1,0 +1,19 @@
+= Admonitions Test
+Firstname Lastname <author@asciidoctor.org>
+v1.0, 2013-01-01, HubPress article template
+:published_at: 2020-01-01
+:hp-tags: HubPress, Blog, Open Source, 
+
+
+
+== Admonitions
+
+NOTE: Here's something additional information
+
+TIP: Here's an insight which will help you accomplish something awesome
+
+IMPORTANT: Here's something to take seriously
+
+CAUTION: Here's something that could cause damage
+
+WARNING: Here's something that could cause bodily harm
