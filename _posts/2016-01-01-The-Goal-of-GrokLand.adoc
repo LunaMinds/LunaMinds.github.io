@@ -6,54 +6,50 @@ v0.1, 2015-08-27: initial thoughts
 :toc:
 
 
-[quote, firstname lastname, source]
-____
-I am a block quote or a prose excerpt.
-I am subject to normal substitutions.
-____
+
 
 
 
 [quote,Jacob Bronowski]
-____
+""
 Although science and art are social phenomena, the innovation in either field occurs only when a single mind perceives in disorder a deep, new unity.
-____
+""
 
 
 [quote,Tom Peters]
-____
+""
 Innovation comes only from readily and seamlessly sharing information rather than hoarding it.
-____
+""
 
 
 [quote,Abigal Adams]
-____
+""
 Learning is not attained by chance. It must be sought for with ardor and attended to with diligence.
-____
+""
 
 
 [quote,Robert Half]
-____
+""
 When one teaches, two learn.
-____
+""
 
 
-[quote, Barack Obama, Arizona State Commencement Speech, 2009]
-____
+[quote, Barack Obama, Arizona State Commencement Speech: 2009]
+""
 No matter how much you've done or how successful you've been, there's always more to do, always more to learn, and always more to achieve.
-____
+""
 
 
 [quote,Mahatma Gandhi]
-____
+""
 Live as if you were to die tomorrow. Learn as if you were to live forever.
-____    
+""    
 
 
 [quote,Abigal Adams]
-____
+""
 Learning is not attained by chance. It must be sought for with ardor and attended to with diligence.
-____
+""
 
 
 
@@ -62,9 +58,9 @@ ____
 == Grokking "Grok"
 
 [quote, ,The Jargon File]
-____
+""
 When you claim to 'grok' some knowledge or technique, you are asserting that you have not merely learned it in a detached instrumental way but that it has become part of you, part of your identity.
-____
+""
 
 While I'm sure my first introduction to the word "grok" was while reading the original source (more on that in a moment), my first real connection to the word was in the sense defined by The Jargon File.  
 
@@ -80,9 +76,9 @@ The "Grok" in Grok.Land was born out of The Jargon File meaning.  In particular,
 
 
 [quote,Robert A. Heinlein, Stranger in a Strange Land]
-____
+""
 Grok means to understand so thoroughly that the observer becomes a part of the observed—to merge, blend, intermarry, lose identity in group experience. 
-____
+""
 
 The irony is that my goal for Grok.Land includes some aspects of the original meaning of "grok". I absolutely don't want individuals to lose their identity, but I do want users to become part of something more than just a collection of individuals, I want Grok.Land users to form a genuine online learning community that benefits them in a way that no other learning environment has ever been able to do.
 
