@@ -2,7 +2,6 @@
 MetaSean,
 v0.1, 2015-08-27: initial thoughts 
 :published_at: 2016-01-01
-:hp-image: covers/a-cover-image.jpg
 :hp-tags: grok.land, learning 
 :toc:
 
