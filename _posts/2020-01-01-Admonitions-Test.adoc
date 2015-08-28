@@ -17,3 +17,17 @@ IMPORTANT: Here's something to take seriously
 CAUTION: Here's something that could cause damage
 
 WARNING: Here's something that could cause bodily harm
+
+
+
+
+[BYLINE]
+====
+Brought to you by: {authors}
+
+Published: {published_at}
+
+Revised: {revdate}
+
+Rev Notes: {revremark}
+====
