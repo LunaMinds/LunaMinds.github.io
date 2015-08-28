@@ -20,7 +20,8 @@ WARNING: Here's something that could cause bodily harm
 
 
 
-
+// create byline admonition block
+// http://asciidoctor.org/docs/asciidoc-syntax-quick-reference/#admon-bl
 [BYLINE]
 ====
 Brought to you by: {authors}
