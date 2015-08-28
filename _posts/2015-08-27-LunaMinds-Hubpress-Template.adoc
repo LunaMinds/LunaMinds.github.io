@@ -1,1 +1,2 @@
 = LunaMinds Hubpress Template
+Firstname Lastname <author@asciidoctor.org>
