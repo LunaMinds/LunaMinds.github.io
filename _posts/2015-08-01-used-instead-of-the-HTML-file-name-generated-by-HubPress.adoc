@@ -24,6 +24,6 @@ This is a paragraph with a *bold* word and an _italicized_ word.
 
 Brought to you by: {author} & {author_2}
 
-Originally publish: {published_at}; last revised: {revdate}
+Published: {published_at}; last revised: {revdate}
 
 Version Notes: {revremark}
