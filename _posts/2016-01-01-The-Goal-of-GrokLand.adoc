@@ -1,0 +1,108 @@
+= The Goal of Grok.Land
+MetaSean,
+v0.1, 2015-08-27: initial thoughts 
+:published_at: 2016-01-01
+:hp-image: covers/a-cover-image.jpg
+:hp-tags: grok.land, learning 
+:toc:
+
+
+[quote, firstname lastname, source]
+____
+I am a block quote or a prose excerpt.
+I am subject to normal substitutions.
+____
+
+
+
+[quote,Jacob Bronowski]
+____
+Although science and art are social phenomena, the innovation in either field occurs only when a single mind perceives in disorder a deep, new unity.
+____
+
+
+[quote,Tom Peters]
+____
+Innovation comes only from readily and seamlessly sharing information rather than hoarding it.
+____
+
+
+[quote,Abigal Adams]
+____
+Learning is not attained by chance. It must be sought for with ardor and attended to with diligence.
+____
+
+
+[quote,Robert Half]
+____
+When one teaches, two learn.
+____
+
+
+[quote, Barack Obama, Arizona State Commencement Speech, 2009]
+____
+No matter how much you've done or how successful you've been, there's always more to do, always more to learn, and always more to achieve.
+____
+
+
+[quote,Mahatma Gandhi]
+____
+Live as if you were to die tomorrow. Learn as if you were to live forever.
+____    
+
+
+[quote,Abigal Adams]
+____
+Learning is not attained by chance. It must be sought for with ardor and attended to with diligence.
+____
+
+
+
+
+
+== Grokking "Grok"
+
+[quote, ,The Jargon File]
+____
+When you claim to 'grok' some knowledge or technique, you are asserting that you have not merely learned it in a detached instrumental way but that it has become part of you, part of your identity.
+____
+
+While I'm sure my first introduction to the word "grok" was while reading the original source (more on that in a moment), my first real connection to the word was in the sense defined by The Jargon File.  
+
+As a teenager learning to drive, my very first time driving on the interstate, my knuckles where white, I was irritated at all the drivers that were flying past me at speeds clearly over the posted limit, but most importantly _everything required concious thought_.  I had to conciously keep my hands at "10 & 2".  I had to conciously rotate my eyes from the road in front of me, to the passenger side mirror, to the rear view mirror, to driver side mirror, and back to the road in front of me.  When I needed to signal a lane change, I had to conciously think about which side of the steering column had the stick I need to move, and did I need to move it up or down to signal a move left or right?
+
+I have no idea how many interstate miles I have driven since, and while I occasionally still get white knuckles, most of the time I get irritated at the slow drivers, but I also rarely am concious of those things that required conciousness as a new driver.  While my eyes are constantly shifting between the road ahead and my mirrors, I genuinely don't know the last time doing so required concious thought.  I simply do it now.
+
+In other words, I know 'grok' interstate driving.  I'm focused on the big picture of my trip and my environment, not the minute details of driving.
+
+Likewise, if you've made it this far into this article, you likely 'grok' reading English.  You don't conciously have to think about what a capital letter following a period and a space means; you simply 'know' that a new, but related, thought has been started.
+
+The "Grok" in Grok.Land was born out of The Jargon File meaning.  In particular, I want to help facilite a rapid transition between concious, white knuckled learners into individuals who grok what they want to grok.  I want to enable a way for people to lean enough to focus on the big picture of their trips instead of the minute details of driving.
+
+
+[quote,Robert A. Heinlein, Stranger in a Strange Land]
+____
+Grok means to understand so thoroughly that the observer becomes a part of the observed—to merge, blend, intermarry, lose identity in group experience. 
+____
+
+The irony is that my goal for Grok.Land includes some aspects of the original meaning of "grok". I absolutely don't want individuals to lose their identity, but I do want users to become part of something more than just a collection of individuals, I want Grok.Land users to form a genuine online learning community that benefits them in a way that no other learning environment has ever been able to do.
+
+This may sound like a grand plan.  In fact, this may even sound like an unachievably grand plan.  I'd be lying if said it wasn't a grand plan, but it is something I have envisioned and worked toward for over two decades.  What will be rolling out soon is the minimual viable product.  In and of itself, it certainly won't be grand!  But it is the foundation for the grand plan.  This article is an introduction to that grand plan.
+
+
+
+
+
+
+
+This is a paragraph with a *bold* word and an _italicized_ word.
+
+
+
+== Article Meta
+
+Brought to you by: {authors}
+
+Published: {published_at}; last revised: {revdate}
+
+Version Notes: {revremark}
