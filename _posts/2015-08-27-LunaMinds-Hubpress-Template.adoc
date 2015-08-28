@@ -1,3 +1,4 @@
 = LunaMinds Hubpress Template
 Firstname Lastname <author@asciidoctor.org>
 v1.0, 2013-01-01, HubPress article template
+:hp-image: covers/a-cover-image.jpg
