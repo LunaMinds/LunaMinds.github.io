@@ -1,5 +1,5 @@
 = LunaMinds Hubpress Template
-Firstname Lastname <author@asciidoctor.org>
+Firstname Lastname <author@asciidoctor.org>; Second Author <author2@asciidoctor.org>
 v1.0, 2013-01-01, HubPress article template
 :hp-image: covers/a-cover-image.jpg
 :hp-tags: HubPress, Blog, Open Source, 
